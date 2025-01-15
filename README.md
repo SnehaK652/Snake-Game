@@ -10,6 +10,6 @@ A Python implementation of the classic **Snake Game** using the 🐢 Turtle grap
 - 🚀 **Real-time controls** (Arrow keys: ⬆️⬇️⬅️➡️) for smooth gameplay.  
 - ⚠️ **Collision detection** with walls and the snake's body to trigger a **Game Over** screen.  
 
-This project is designed with modular classes (`Snake`, `Food`, `Scoreboard`) for scalability and uses `time.sleep()` for smooth movement animations. Perfect for beginners and easily extendable for features like levels or high score tracking! 🌟
-
 ![image](https://github.com/user-attachments/assets/569df94c-1c52-482d-a7e1-ba9f1e7808d4)
+
+This project is designed with modular classes (`Snake`, `Food`, `Scoreboard`) for scalability and uses `time.sleep()` for smooth movement animations.🌟
